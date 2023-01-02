@@ -23,7 +23,8 @@ button {
  input[type=text], input[type=password] {   
         width: 100%;   
         margin: 8px 0;  
-        padding: 12px 20px;   
+        padding: 12px 20px;
+        border-radius:50px;
         display: inline-block;   
         border: 2px solid green;   
         box-sizing: border-box;   
@@ -40,7 +41,7 @@ button {
      
  .container {   
         padding: 25px;   
-        background-color: lightblue;  
+        background-color: #FBFCFC;  
     }   
 </style>   
 </head>    

@@ -14,7 +14,8 @@ button {
         padding: 15px;   
         margin: 10px 0px;   
         border: none;   
-        cursor: pointer;   
+        cursor: pointer;
+        border-radius:50px;
          }   
  form {   
         border: 3px solid #f1f1f1;   

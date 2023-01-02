@@ -9,7 +9,7 @@ Body {
 }  
 button {   
        background-color: #4CAF50;   
-       width: 50%;  
+       width: 100%;  
         color: black;   
         padding: 15px;   
         margin: 10px 0px;   
